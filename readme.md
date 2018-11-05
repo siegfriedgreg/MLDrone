@@ -2,7 +2,7 @@
 
 This project uses my other project SiegDrone.py for a backbone.
 
-The added features for thie repository is a fully trained CNN using the CIFAR 10 imageset, and trained with CAFFE.
+The added features for this repository is a fully trained CNN using the CIFAR 10 imageset, and trained with CAFFE.
 
 Standard connection to the drone, with controls setup for a PS4 controller.
 
